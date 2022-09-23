@@ -1,0 +1,25 @@
+{
+  "name": "@caoshouse/dcmconvert",
+  "version": "1.0.6",
+  "description": "Various dcm files conversions and manipulations",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dicom",
+    "dcm",
+    "nodejs"
+  ],
+  "author": "caoshouse",
+  "license": "ISC",
+  "dependencies": {
+    "@caoshouse/dcmtk": "^1.0.2",
+    "@caoshouse/imagick": "^1.0.7",
+    "dcmjs-dimse": "^0.1.6"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.18"
+  },
+  "files": ["dist/*.*"]
+}
