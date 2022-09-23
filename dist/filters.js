@@ -10,4 +10,3 @@ function blur(format, dcmIn, fileOut) {
     log.info(arguments.toString());
 }
 exports.blur = blur;
-//# sourceMappingURL=filters.js.map

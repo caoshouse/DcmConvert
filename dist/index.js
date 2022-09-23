@@ -231,4 +231,3 @@ exports.DcmConvert = DcmConvert;
 DcmConvert.mergeOptions = (def, options) => {
     return DcmConvert.options2Pixel(Object.assign({}, initialOptions, def, options));
 };
-//# sourceMappingURL=index.js.map

@@ -1,6 +1,6 @@
 {
   "name": "@caoshouse/dcmconvert",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Various dcm files conversions and manipulations",
   "main": "dist/index.js",
   "scripts": {
